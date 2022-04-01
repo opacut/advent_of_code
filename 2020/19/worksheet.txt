@@ -1,0 +1,519 @@
+term:
+1: "aaba" | "bbaa" | "baaa" | "babb" | "abab" | "aaab"
+2: "bab" | "bba" | "aaa" | "abb" | "aab"
+3: "aaba" | "aabb" | "abab" | "babb" | "baab" | "bbab" | "bbba" | "bbbb"
+4: "aaaba" | "abbaa" | "abaaa" | "aabaa" | "aaaaa" | "bbbaa" | "bbaaa" | "bbbbb" | "bbbab" | "abbab" | "abaab" | "aabbb" | "aabab" | "aaabb" | "aaaab"
+5: "bbabb" | "bbaab" | "babbb" | "babab" | "abaab" | "aaaab" | "aabbb" | "aabab" | "abaaa" | "baaaa" | "bbbaa" | "abbaa" | "baaba" | "ababa" | "aabba" | "aaaba"
+6: "aba" | "abb" | "aaa" | "aab"
+7: "abb" | "aab" | "baa" | "bbb" | "bab"
+9: "bbbb" | "babb" | "aaaa" | "bbaa" | "baaa"
+10: "abb" | "aaa" | "bba" | "aba"
+12: "bba" | "bbb" | "bab"
+13: "abab" | "aaab" | "aaba" | "aabb" | "baaa" | "bbba" | "baba" | "baab" | "bbbb" | "bbab"
+14: "aba" | "bab" | "baa"
+15: "bb"
+16: "aab" | "aba" | "bab" | "bba" | "bbb"
+17: "ababa" | "abaaa" | "abbbb" | "abbab" | "ababb" | "abaab" | "aaabb" | "aabab" | "aabbb" | "bbbaa" | "bbaab" | "bbbbb" | "bbabb" | "babba" | "baaba" | "baaaa"
+18: "aaa" | "bab" | "baa"
+19: "ababbab" | "ababaab" | "abaabbb" | "abaabab" | "abaaabb" | "abaaaab" | "abbabab" | "abbaaab" | "abbaabb" | "abbbbbb" | "abbbabb" | "aaabbab" | "aaaabab" | "aababbb" | "aabbabb" | "aaaaabb" | "aaabbbb" | "aaaabbb" | "abaabaa" | "abbabba" | "abbbaba" | "ababbba" | "abababa" | "abaabba" | "abaaaba" | "aaabaaa" | "aaaaaaa" | "aaaabba" | "aaaabaa" | "aababba" | "aabaaaa" | "aabbbaa" | "aababaa" | "babbaab" | "babbbab" | "bababab" | "babbbbb" | "baabbbb" | "baaaabb" | "babbabb" | "babaabb" | "babbbaa" | "baabaaa" | "baaaaaa" | "baaabba" | "bababba" | "babbaba" | "babbbba" | "bbaabba" | "bbaaaba" | "bbbbbba" | "bbbbaba" | "bbabaaa" | "bbbaaaa" | "bbabbaa" | "bbbabaa" | "bbbbbaa" | "bbbbbab" | "bbbaaab" | "bbaaaab" | "bbaabbb" | "bbababb" | "bbbabbb" | "bbbbabb" | "bbbbbbb"
+20: "bb" | "ba" | "ab" | "aa"
+21: "abb" | "aba" | "baa"
+22: "baa" | "aba" | "aab" | "aaa"
+23: "aaa" | "bba" | "baa"
+24: "bbab" | "bbaa" | "babb" | "baba" | "abaa" | "aaaa" | "aabb" | "aaba"
+25: "bbb" | "abb" | "aaa" | "bba" | "baa"
+26: "aab" | "bba" | "baa" | "aba" | "aaa"
+27: "ab" | "ba"
+28: "babbab" | "babaab" | "baabbb" | "baabab" | "baaabb" | "baaaab" | "bbabab" | "bbaaab" | "bbaabb" | "bbbbbb" | "bbbabb" | "aabbab" | "aaabab" | "ababbb" | "abbabb" | "aaaabb" | "aabbbb" | "aaabbb" | "baabaa" | "bbabba" | "bbbaba" | "babbba" | "bababa" | "baabba" | "baaaba" | "aabaaa" | "aaaaaa" | "aaabba" | "aaabaa" | "ababba" | "abaaaa" | "abbbaa" | "ababaa"
+29: "aba" | "baa" | "aab" | "bbb" | "abb"
+30: "aaa" | "bba" | "aba" | "aab" | "bbb" | "bab"
+31: "ababbbbb" | "abababbb" | "abaaaaab" | "ababbaab" | "ababaaab" | "abbbbbab" | "abbaabab" | "abbbbaab" | "abbbaaab" | "abbabaab" | "abbaaaab" | "abbabbbb" | "abbbbabb" | "abbbaabb" | "aabababb" | "aabaaabb" | "aabaabab" | "aabaabbb" | "aabbaaab" | "aabbbbab" | "aabbabab" | "aabbaabb" | "aabbbbbb" | "aabbbabb" | "aaaaabab" | "aaababab" | "aaabbaab" | "aaabbbab" | "aaaaaabb" | "aaababbb" | "aaabaabb" | "baababbb" | "bbbaabbb" | "bbaaabbb" | "bbabbbbb" | "bababbbb" | "baaabbbb" | "bbabbabb" | "baabbabb" | "baaababb" | "bbbababb" | "bbaababb" | "babaaabb" | "baaaaabb" | "baabaabb" | "bbbbaabb" | "bbabaabb" | "bbbabbab" | "bbbaabab" | "bbabbbab" | "bbababab" | "babaabab" | "baaaabab" | "baabbbab" | "baababab" | "babaaaab" | "bbaaaaab" | "bbbbaaab" | "babbaaab" | "bbaabaab" | "bababaab" | "baabbaab" | "baaabaab" | "baaaabaa" | "baabbaaa" | "baabaaaa" | "baaabaaa" | "baaaaaaa" | "babbbaaa" | "babbaaaa" | "babbbbba" | "babbbaba" | "baabbaba" | "baabaaba" | "baaabbba" | "baaababa" | "baaaabba" | "baaaaaba" | "bbbbabaa" | "bbbbbaba" | "bbbbbaaa" | "bbbababa" | "bbbabaaa" | "bbbaaaaa" | "bbbaabba" | "bbbaaaba" | "bbabbbba" | "bbababba" | "bbaabbaa" | "bbaaabaa" | "bbabaaaa" | "bbabbbaa" | "bbababaa" | "ababbbaa" | "abaaabaa" | "ababaaaa" | "abaaaaaa" | "abbbabaa" | "abbaaaaa" | "abbabbaa" | "abbaabaa" | "aaababaa" | "aaaaaaaa" | "aaaabbaa" | "aaaabaaa" | "aabbbbaa" | "aababbaa" | "aabaaaaa" | "aabbbaaa" | "aabbaaaa" | "aabbabba" | "aaaaabba" | "abbbabba" | "abbaabba" | "abbbbbba" | "abbabbba" | "aaaabbba" | "aabbbbba" | "aababbba" | "aabbaaba" | "aaaababa" | "aabbbaba" | "aaabbaba" | "ababaaba" | "abbaaaba" | "abaababa" | "abbbbaba" | "ababbaba"
+32: "bb" | "ab"
+33: "abbbb" | "ababb" | "aaaaa" | "abbaa" | "abaaa" | "bbbba" | "baaba" | "bbbaa" | "bbaaa" | "babaa" | "baaaa | "babbb" | "bbbab" | "bbaab"
+34: "aa"
+35: "bbb" | "aab" | "aba"
+37: "bbaab" | "bbbab" | "babab" | "bbbbb" | "abbbb" | "aaabb" | "bbabb" | "baabb" | "bbbaa" | "abaaa" | "aaaaa" | "aabba" | "babba" | "bbaba" | "bbbba"
+38: "abbb" | "aaab" | "abaa" | "aaaa" | "bbab" | "baaa" | "babb" | "baab"
+39: "babba" | "babaa" | "baabb" | "baaba" | "baaab" | "baaaa" | "bbaba" | "bbaaa" | "bbaab" | "bbbbb" | "bbbab" | "aabba" | "aaaba" | "ababb" | "abbab" | "aaaab" | "aabbb" | "aaabb"
+40: "baaa" | "bbab" | "bbba" | "abab" | "abaa" | "aaba" | "aaaa"
+41: "aab"
+42: "aaabbbba" | "aaababba" | "aabaabba" | "abababba" | "ababbbba" | "abaaabba" | "abaabbba" | "abaaaaba" | "abbababa" | "abbbaaba" | "aabababa" | "aabaaaba" | "aaabaaba" | "aaaaaaba" | "aaabaaaa" | "aaabbaaa" | "aababaaa" | "ababbaaa" | "abaabaaa" | "abbabaaa" | "abbbaaaa" | "abbbbaaa" | "aaabbbaa" | "aaaaabaa" | "aabbabaa" | "aabaabaa" | "abbbbbaa" | "abaabbaa" | "abababaa" | "baabbbba" | "baababba" | "babbabba" | "babbaaba" | "bababbba" | "babababa" | "babaabba" | "babaaaba" | "bbabbaba" | "bbabaaba" | "bbaabbba" | "bbaababa" | "bbaaabba" | "bbaaaaba" | "bbbbaaba" | "bbbabbba" | "bbbbabba" | "bbbbbbba" | "bababaaa" | "babaaaaa" | "babbbbaa" | "babbabaa" | "bababbaa" | "babaabaa" | "baaabbaa" | "baababaa" | "baabbbaa" | "bbbbaaaa" | "bbbaabaa" | "bbbbbbaa" | "bbbabbaa" | "bbabbaaa" | "bbaabaaa" | "bbaaaaaa" | "ababbabb" | "ababaabb" | "abaabbbb" | "abaababb" | "abaaabbb" | "abaaaabb" | "abbababb" | "abbaaabb" | "abbaabbb" | "abbbbbbb" | "abbbabbb" | "aaabbabb" | "aaaababb" | "aababbbb" | "aabbabbb" | "aaaaabbb" | "aaabbbbb" | "aaaabbbb" | "abaabaab" | "abbabbab" | "abbbabab" | "ababbbab" | "abababab" | "abaabbab" | "abaaabab" | "aaabaaab" | "aaaaaaab" | "aaaabbab" | "aaaabaab" | "aababbab" | "aabaaaab" | "aabbbaab" | "aababaab" | "babbaabb" | "babbbabb" | "babababb" | "babbbbbb" | "baabbbbb" | "baaaabbb" | "babbabbb" | "babaabbb" | "babbbaab" | "baabaaab" | "baaaaaab" | "baaabbab" | "bababbab" | "babbabab" | "babbbbab" | "bbaabbab" | "bbaaabab" | "bbbbbbab" | "bbbbabab" | "bbabaaab" | "bbbaaaab" | "bbabbaab" | "bbbabaab" | "bbbbbaab" | "bbbbbabb" | "bbbaaabb" | "bbaaaabb" | "bbaabbbb" | "bbababbb" | "bbbabbbb" | "bbbbabbb" | "bbbbbbbb"
+43: "abba" | "aaab" | "abbb" | "aabb" | "baba" | "bbaa" | "baab" | "bbbb" | "babb"
+44: "bbaba" | "bbbab" | "bbbaa" | "babab" | "babaa" | "baaaa" | "baabb" | "baaab" | "abbbb" | "ababb" | "aabba" | "aaaba" | "abaaa" | "abbba" | "ababa"
+45: "aaba" | "babb" | "bbab" | "abbb" | "abab" | "aabb" | "aaab"
+46: "abaa" | "aaaa" | "aabb" | "aaba" | "babb" | "baaa" | "bbba" | "baba"
+47: "bb" | "aa"
+48: "aab" | "aaa" | "bbb" | "bba"
+49: "bba" | "baa"
+50: "babbbb" | "bababb" | "baaaaa" | "babbaa" | "babaaa" | "bbbbba" | "bbaaba" | "bbbbaa" | "bbbaaa" | "bbabaa" | "bbaaaa | "bbabbb" | "bbbbab" | "bbbaab" | "ababab" | "abaaab" | "abaaba" | "abaabb" | "abbaaa" | "abbbba" | "abbaba" | "abbaab" | "abbbbb" | "abbbab" | "aaaaba" | "aababa" | "aabbaa" | "aabbba" | "aaaaab" | "aababb" | "aabaab"
+51: "bab" | "baa" | "aaa" | "abb" | "aab"
+52: "bba" | "baa" | "abb" | "aba" | "aab" | "aaa"
+53: "bab" | "baa"
+54: "ab" | "aa"
+55: "bbb" | "bba" | "bab" | "baa" | "aab" | "aba" | "abb"
+56: "baa" | "aab" | "bbb" | "abb"
+57: "bbaa" | "baab" | "bbbb" | "babb" | "abba" | "aaba" | "aaaa"
+58: "abba" | "aaaa" | "bbba" | "bbaa" | "bbbb" | "bbab" | "aaab" | "abbb" | "abab"
+59: "aab" | "bab" | "bba" | "bbb"
+60: "bbbb" | "babb" | "abba" | "aaba" | "baaa" | "bbba" | "baba"
+61: "aabb" | "aaba" | "abaa" | "baba" | "babb" | "baaa" | "baab"
+62: "abb" | "aab" | "bab" | "bba" | "bbb"
+63: "bbb" | "bab"
+64: "abb" | "aab"
+65: "aba" | "baa" | "abb" | "bab" | "bbb"
+66: "aabb" | "aaaa" | "abba" | "abaa" | "bbbb" | "baab" | "baba"
+67: "bba" | "aba" | "aaa"
+68: "aaabbbb" | "aaababb" | "aabaabb" | "abababb" | "ababbbb" | "abaaabb" | "abaabbb" | "abaaaab" | "abbabab" | "abbbaab" | "aababab" | "aabaaab" | "aaabaab" | "aaaaaab" | "aaabaaa" | "aaabbaa" | "aababaa" | "ababbaa" | "abaabaa" | "abbabaa" | "abbbaaa" | "abbbbaa" | "aaabbba" | "aaaaaba" | "aabbaba" | "aabaaba" | "abbbbba" | "abaabba" | "abababa" | "baabbbb" | "baababb" | "babbabb" | "babbaab" | "bababbb" | "bababab" | "babaabb" | "babaaab" | "bbabbab" | "bbabaab" | "bbaabbb" | "bbaabab" | "bbaaabb" | "bbaaaab" | "bbbbaab" | "bbbabbb" | "bbbbabb" | "bbbbbbb" | "bababaa" | "babaaaa" | "babbbba" | "babbaba" | "bababba" | "babaaba" | "baaabba" | "baababa" | "baabbba" | "bbbbaaa" | "bbbaaba" | "bbbbbba" | "bbbabba" | "bbabbaa" | "bbaabaa" | "bbaaaaa"
+69: "bab" | "baa" | "aba" | "aaa"
+70: "bab" | "aab" | "aba" | "abb"
+71: "ba"
+72: "aaab" | "abba" | "abaa" | "aaba" | "aaaa" | "bbba" | "bbaa"
+73: "ba" | "aa"
+74: "bbba" | "baaa" | "aaaa" | "aabb" | "abab" | "babb" | "bbab" | "bbbb"
+75: "aabab" | "bbaab" | "baaab" | "babbb" | "ababb" | "aaabb" | "babba" | "aabba" | "aaaba" | "bbaba" | "baaba" | "abaaa" | "aaaaa" | "aabaa" | "bbbaa" | "babaa"
+76: "aaaaba" | "aabbaa" | "aabaaa" | "aaabaa" | "aaaaaa" | "abbbaa" | "abbaaa" | "abbbbb" | "abbbab" | "aabbab" | "aabaab" | "aaabbb" | "aaabab" | "aaaabb" | "aaaaab" | "bbbaba" | "bbbbab" | "bbbbaa" | "bbabab" | "bbabaa" | "bbaaaa" | "bbaabb" | "bbaaab" | "babbbb" | "bababb" | "baabba" | "baaaba" | "babaaa" | "babbba" | "bababa"
+77: "abbaab" | "abbbab" | "ababab" | "abbbbb" | "aabbbb" | "aaaabb" | "abbabb" | "abaabb" | "abbbaa" | "aabaaa" | "aaaaaa" | "aaabba" | "ababba" | "abbaba" | "abbbba" | "baabba" | "baaaba" | "bbbbba" | "bbbaba" | "babaaa" | "bbaaaa" | "babbaa" | "bbabaa" | "bbbbaa" | "bbbbab" | "bbaaab" | "baaaab" | "baabbb" | "bababb" | "bbabbb" | "bbbabb" | "bbbbbb"
+78: "abab" | "aaaa" | "aabb" | "aaba" | "bbbb" | "babb" | "baaa" | "bbba" | "bbaa"
+79: "aabb" | "aaab" | "bbbb" | "bbab" | "abaa" | "baaa" | "abba" | "baba" | "bbba"
+80: "abbab" | "aaaab" | "bbbab" | "bbaab" | "bbbbb" | "bbabb" | "aaabb" | "abbbb" | "ababb" | "abbaa" | "aaaba" | "abbba" | "aabba" | "babaa" | "bbaaa" | "baaba" | "bbbba" | "babba"
+81: "babbb" | "baaab" | "babaa" | "baaaa" | "bbbab" | "bbaaa" | "bbabb" | "bbaab" | "aabab" | "aaaaa" | "aaabb" | "aaaba" | "abbbb" | "ababb" | "abaaa" | "abbba" | "abbaa"
+82: "bbba" | "abaa" | "aaaa" | "aabb" | "babb" | "bbab" | "bbbb"
+83: "aabba" | "aaaba" | "bbbba" | "bbaba" | "abaaa" | "baaaa" | "abbaa" | "babaa" | "bbbaa" | "bbbab" | "baaab" | "aaaab" | "aabbb" | "ababb" | "babbb" | "bbabb" | "bbbbb"
+84: "abba" | "aaba" | "babb" | "bbab" | "aaab" | "abbb" | "aabb"
+85: "bbaa" | "bbba" | "baba" | "bbbb" | "abbb" | "aaab" | "bbab" | "baab"
+86: "bab" | "aaa" | "abb" | "aab"
+87: "abba" | "abaa" | "aabb" | "aaba" | "aaab" | "aaaa" | "bbaa" | "babb" | "bbab" | "bbbb"
+88: "aabbbb" | "aababb" | "abbabb" | "abbaab" | "ababbb" | "ababab" | "abaabb" | "abaaab" | "babbab" | "babaab" | "baabbb" | "baabab" | "baaabb" | "baaaab" | "bbbaab" | "bbabbb" | "bbbabb" | "bbbbbb" | "ababaa" | "abaaaa" | "abbbba" | "abbaba" | "ababba" | "abaaba" | "aaabba" | "aababa" | "aabbba" | "bbbaaa" | "bbaaba" | "bbbbba" | "bbabba" | "babbaa" | "baabaa" | "baaaaa"
+89: "ababbbb" | "abababb" | "abaaaaa" | "ababbaa" | "ababaaa" | "abbbbba" | "abbaaba" | "abbbbaa" | "abbbaaa" | "abbabaa" | "abbaaaa | "abbabbb" | "abbbbab" | "abbbaab" | "aababab" | "aabaaab" | "aabaaba" | "aabaabb" | "aabbaaa" | "aabbbba" | "aabbaba" | "aabbaab" | "aabbbbb" | "aabbbab" | "aaaaaba" | "aaababa" | "aaabbaa" | "aaabbba" | "aaaaaab" | "aaababb" | "aaabaab" | "baababb" | "bbbaabb" | "bbaaabb" | "bbabbbb" | "bababbb" | "baaabbb" | "bbabbab" | "baabbab" | "baaabab" | "bbbabab" | "bbaabab" | "babaaab" | "baaaaab" | "baabaab" | "bbbbaab" | "bbabaab" | "bbbabba" | "bbbaaba" | "bbabbba" | "bbababa" | "babaaba" | "baaaaba" | "baabbba" | "baababa" | "babaaaa" | "bbaaaaa" | "bbbbaaa" | "babbaaa" | "bbaabaa" | "bababaa" | "baabbaa" | "baaabaa"
+90: "bab" | "aaa" | "abb" | "aba"
+91: "aba" | "aaa" | "aab" | "bbb" | "bab"
+92: "baba" | "bbab" | "bbaa" | "abab" | "abaa" | "aaaa" | "aabb" | "aaab"
+93: "aabbb" | "aabab" | "abbab" | "abbaa" | "ababb" | "ababa" | "abaab" | "abaaa" | "babba" | "babaa" | "baabb" | "baaba" | "baaab" | "baaaa" | "bbbaa" | "bbabb" | "bbbab" | "bbbbb" 
+94: "aaba" | "baba" | "bbaa" | "bbba" | "aaab" | "babb" | "baab"
+95: "baaaaba" | "baabbaa" | "baabaaa" | "baaabaa" | "baaaaaa" | "babbbaa" | "babbaaa" | "babbbbb" | "babbbab" | "baabbab" | "baabaab" | "baaabbb" | "baaabab" | "baaaabb" | "baaaaab" | "bbbbaba" | "bbbbbab" | "bbbbbaa" | "bbbabab" | "bbbabaa" | "bbbaaaa" | "bbbaabb" | "bbbaaab" | "bbabbbb" | "bbababb" | "bbaabba" | "bbaaaba" | "bbabaaa" | "bbabbba" | "bbababa" | "ababbba" | "abaaaba" | "ababaaa" | "abaaaaa" | "abbbaba" | "abbaaaa" | "abbabba" | "abbaaba" | "aaababa" | "aaaaaaa" | "aaaabba" | "aaaabaa" | "aabbbba" | "aababba" | "aabaaaa" | "aabbbaa" | "aabbaaa" | "aabbabb" | "aaaaabb" | "abbbabb" | "abbaabb" | "abbbbbb" | "abbabbb" | "aaaabbb" | "aabbbbb" | "aababbb" | "aabbaab" | "aaaabab" | "aabbbab" | "aaabbab" | "ababaab" | "abbaaab" | "abaabab" | "abbbbab" | "ababbab"
+96: "aabbb" | "aabab" | "abaab" | "babab" | "babbb" | "baaab" | "baabb" | "baaaa" | "bbaba" | "bbbaa" | "ababa" | "abaaa" | "aabaa" | "aaaaa"
+97: "bab" | "bba" | "abb" | "aba" | "aab" | "aaa"
+98: "bbb" | "aab" | "baa" | "aaa"
+100: "abbb" | "abab" | "bbab" | "bbaa" | "babb" | "baba" | "baab" | "baaa"
+101: "bab" | "aab" | "aaa" | "bba" | "baa"
+102: "aa" | "bb" | "ab"
+103: "bbba" | "aaba" | "bbaa" | "baaa" | "abaa" | "aaaa | "abbb" | "bbab" | "baab"
+104: "aba" | "abb" | "bab"
+105: "bbb" | "bba" | "aaa" | "abb" | "aba"
+106: "aba" | "baa" | "bbb" | "abb"
+107: "baa" | "aaa" | "abb" | "aba"
+108: "aabbbb" | "aababb" | "abaabb" | "bababb" | "babbbb" | "baaabb" | "baabbb" | "baaaab" | "bbabab" | "bbbaab" | "ababab" | "abaaab" | "aabaab" | "aaaaab" | "aabaaa" | "aabbaa" | "ababaa" | "babbaa" | "baabaa" | "bbabaa" | "bbbaaa" | "bbbbaa" | "aabbba" | "aaaaba" | "abbaba" | "abaaba" | "bbbbba" | "baabba" | "bababa"
+109: "bbb" | "aab" | "bba" | "baa" | "aba" | "aaa
+110: "aaa" | "bab" | "bba"
+111: "aababb" | "bbaabb" | "baaabb" | "babbbb" | "ababbb" | "aaabbb" | "babbab" | "aabbab" | "aaabab" | "bbabab" | "baabab" | "abaaab" | "aaaaab" | "aabaab" | "bbbaab" | "babaab" | "bbabba" | "bbaaba" | "babbba" | "bababa" | "abaaba" | "aaaaba" | "aabbba" | "aababa" | "abaaaa" | "baaaaa" | "bbbaaa" | "abbaaa" | "baabaa" | "ababaa" | "aabbaa" | "aaabaa"
+112: "bbb" | "bba"
+113: "aab" | "bba" | "baa"
+114: "bbbb" | "bbba" | "abba" | "abaa" | "aabb" | "aaba" | "aaab" | "aaaa"
+115: "baa" | "abb" | "bab" | "bbb"
+116: "b" | "a"
+117: "babbba" | "baaaba" | "babaaa" | "baaaaa" | "bbbaba" | "bbaaaa" | "bbabba" | "bbaaba" | "aababa" | "aaaaaa" | "aaabba" | "aaabaa" | "abbbba" | "ababba" | "abaaaa" | "abbbaa" | "abbaaa" | "abbabb" | "aaaabb" | "bbbabb" | "bbaabb" | "bbbbbb" | "bbabbb" | "aaabbb" | "abbbbb" | "ababbb" | "abbaab" | "aaabab" | "abbbab" | "aabbab" | "babaab" | "bbaaab" | "baabab" | "bbbbab" | "babbab"
+118: "aabaa" | "aabba" | "ababa" | "babba" | "baaba" | "bbaba" | "bbbaa" | "bbbba" | "aabbb" | "aaaab" | "abbab" | "abaab" | "bbbbb" | "baabb" | "babab"
+119: "babb" | "aabb" | "aaab" | "bbab" | "baab" | "abaa" | "aaaa" | "aaba" | "bbba" | "baba"
+120: "baba" | "baaa" | "bbbb" | "bbab" | "babb" | "baab" | "aabb" | "abab" | "abbb"
+121: "abba" | "abaa" | "aabb" | "aaba" | "aaab" | "aaaa" | "baba" | "baaa" | "baab" | "bbbb" | "bbab"
+122: "ab"
+123: "bb" | "ba"
+124: "abaa" | "baaa" | "bbba" | "abba" | "baab" | "abab" | "aabb" | "aaab"
+125: "bab" | "baa" | "abb" | "aba"
+126: "bbb" | "baa" | "aaa"
+127: "abb" | "aaa" | "bbb" | "bba"
+128: "bba" | "aab" | "bbb" | "abb"
+129: "bab" | "aba" | "aaa"
+130: "ab" | "ba" | "bb"
+131: "bbb" | "aba" | "aaa"
+132: "abb" | "aaa" | "bba" | "baa"
+133: "aa" | "bb" | "ba"
+134: "baaba" | "bbabb" | "bbbab" | "babbb" | "babab" | "baabb" | "baaab" | "aabaa" | "aaaaa" | "aaabb" | "aaaba" | "ababb" | "abaaa" | "abbba" | "ababa"
+135: "ba" | "ab" | "aa"
+136: "abb" | "bba" | "baa"
+137: "bab" | "baa" | "abb" | "aba" | "aab" | "aaa"
+138: "babab" | "baaab" | "baaba" | "baabb" | "bbaaa" | "bbbba" | "bbaba" | "bbaab" | "bbbbb" | "bbbab" | "aaaba" | "ababa" | "abbaa" | "abbba" | "aaaab" | "ababb" | "abaab"
+
+
+non-term:
+0: 42 11
+11: 42 31
+
+
+
+babbbbababbbababaabaabab
+aaababbaababbabbaababbabbaaabaab
+abaaaabbaabaaabaababbbbaabbaaaba
+abbaabbbbbaaaaaabaaaaaaa
+aabaaaababababababaaababbabbbaaa
+aaabaaabbbabbaaabbaababb
+aaabbabbabbbaababbbabbab
+bbbabbbbaaabbabbbaabbaab
+babbbaabbaaabbaaaabaaaabaabbbaabaabbbaaaaabbbbbb
+abbaaabbabbabaaaaaaaaabb
+bbbabbaaabaabbbbaaabbabbaabbbbbbbaababab
+ababbbabbabbababbaabbbbbbbbabaabaabbbbbb
+bbbbbbbbaabababababbbbba
+aaabbbbbabbababbabbaaaaa
+aaabbabbbaabbbaabaababbabbbbbbabaabaaabaababaaba
+abaaaabaabaaababaabbbbbb
+bbbbbabbaababbbbaabbaaba
+bbbaabaabaabbbbaabbabaaabababaaaaabbbabaababaababbbbabaa
+abaaaabbbbaabbbabaababab
+abababbabbaabaaaabbbbaba
+babbbabbbbabbabaaaababbb
+aabbaabaaabbbaaabbabaaaa
+abbabaaababbbbababbbbaaabbabbbaa
+babababaabbaabbbbabbbbabbaaabaabbbabbbaa
+abababababbbbbbbaaabaabb
+bbbbbbaabaababaabbbaabba
+bbabaababbababbbbaabbaba
+aaaabaabaaababbbabaabbabbaaaaaaaaaaaabba
+babaabaaabbababbaabbbbaa
+aababbbbabaabbabbbbabbbaababbbababbaaaabbabaaaab
+babaabbbbababababbababab
+babababbbababbaaabbbaabaaaaabbbbaaaabaabaaabaaabaabaabbbbaaaaaaabaababab
+ababbababbbbaaabbabababbabaaaabbbbaabbbbaaaaabbabbaaaabbbbbbbbbabbbaaabbaababbbaaaabbaaaabbabbba
+aaabaaabaabababaabbababaabbbaabaaaabaabb
+bbbbbbaabbaaabbabbaaababaaaababbbaaabbba
+bbbbbaaaaabaabbaabbabaabaabbbbbababbaababaaabbabaabbabab
+bbaaabbbbaabbbabbbbaaaabbabbbabaaaaaabaabbaabbbbbbbabbab
+baabaaabbbbabbbabbbaaabbaabbbbbb
+bbbbaabaaabbbaababbbbaaaabbbbbab
+bbbabbbabbbaaabbbbbaabbb
+abbbaababaababaabaaaaaaa
+bbbbbabbbabbaabaabaababa
+aababaaabababbabbabbbaaa
+aabbabbbbbaaaabbbbaabbbbababbbbabbbaaaaa
+bbabaaabbabbbbbbbbbbaabb
+babbababaaabbabbbaaabbbb
+abaaabbaabaaabbaaabbbbba
+baababbbabbabbaabbababbbbaabaabaabababaabaabbaba
+bbaabbbabaaabbaabaababab
+bbbbbabbabbababbbbaabbbb
+bbbbaaaaabbababaababbbaa
+bababababaababaabaababbaabaaaaaa
+bbbbaaaaaababaabbbbaaaaa
+aababaabbaaaabbbabbabbbb
+abbbababaaabbbbaabbbbbbbaabaaaaa
+aaabaaaaaaabbbaabbbabbabbaaaabbbabbabbabaabbabaababaabba
+bbaaabbababaaaaababaaabb
+bbbabbbbbbaabbbbbabbbbbbbabbbaababaabbbbaabaaaaa
+bbbbabbbabababbaaaabbaab
+abaabbabaababaabbaaaabba
+ababababbbbbbabbaaaaabaaabbbbbbbbababbbbaaabbbab
+bbbbbbbabbbbbaabbbbabbaaaaaabbababbaabbbabbaaaab
+abbbaababbaabaaaaabbbbaa
+bbaaaabaaaaaaabaabababbb
+babbabbbbbbbbbbbaabbbaaa
+abababbaaabaabbaaaabbabbaaabbbaabaaaabaa
+babaabaaabbabbabababbaab
+abbababaabaaabbbaaabaaaaaaaaabbbbbbaabbb
+babbabbaabbababbbaabbaba
+babbabababababaaabbbaababaabbbbbaababbabbbaaaabaaaaabaaaabbbaaab
+babaaaaaaaabbaaaabaaaaaa
+bababaaabbbbbbbabaaababa
+bbaababaaaabbbbaaabaabaabbaaabaa
+abaaabbaabbabbabaababbaa
+abbaaabbbaabbbaabaabbbab
+bbbaaaabbbabbaabaabaabab
+babbbbaaabaaabbabaaabbaaabaaabaa
+bbbbbbaaaabababaababbbbb
+abaabbaaabbbbbbbbabbbbba
+abaabbbbbabbabbbbbbabaaa
+baaaabbbabbbbbbbaaaabbba
+aabababaabaabaaaabbabbba
+bbaaabbababbbbabbbbbaabaaaaabbabaaabbaaaabbbbabbabbbbaababaaaaab
+abbbbaabababaaaabbbaaaabaababaabbbbabbbbaaaaaaaabaaababbaaababaa
+aabbabaaaabaaababaabbbab
+babbabbbbbaabaaaaaabaaaababbbbbbaabbabba
+abaaaabbaaabaabababbbaaa
+aaaababbbbbaaaabaabbbaaa
+bbbabaabbbbbabbaabaaabaa
+ababbabbaababaaaabaaaabbbbaaabbbbabaabab
+babbbbabaaabaaabaaaaabaaaabbabab
+aababbabbabaabbbbaaabaab
+aabaaababbbabaababaabbbaaabaabbabaabaaba
+bbbbabbbbbaaaabaaaabbbbbbbbabababaaabaaa
+abaabbbbbabaaaaaaaaababa
+abbbbaaaaaababbaabbbaaaaabbababaaabbbaaababaabab
+babaaabaabaababbaaabbaab
+abaabbbbbbabbabaabbababbabaaabbabaaaaaaa
+bababbabbaabbbbbbbbbaaab
+bbbaaaabbbaabaaabaaaaaaa
+bbaabbbbbbbaaaababbbabaa
+baabbbbabbbbbbbbbabaaaabbaabbbbbabbbaaaabaababbaaabbbabaaaabaaabbababbbbaaabbaba
+abaabbbaaabbabaabbbbaababbaaaabbaaabaabb
+abbbababababababbbbabaaa
+bbbabbaaaaabaababaabbbaaabbaaabbabbbaaabbbaaabbb
+abbbaaaababababbaabbabbb
+baabbbaaaaababbaaabaabab
+aaabbbbbaaabaabaabaabaaaabaabaaaaabbaaba
+bababbbbbabbaaabaaabaabaaabbbabbaabaaababbababbbbbabbbaabbbabbbaababbbaabbbababb
+abbabaaaabaabaabbaaaabbbaabbbbbb
+abbaabbbaaaaabbbbababbaaaabbbaba
+babbabbbbabababbbaabaaba
+babbabbabaababaaaabbbbab
+aababaabbbbbabbbbbbbabbaabbaaabaababbaab
+bbbaabbaaabaaababbabbabaaaaabbaaabbbabbbaabbabbaabaaabab
+ababababababaabbbaaaaaabbabbbbabbbbbbbababababababbbbaabaaababaaaabbbbbbaabababbbbbbbaba
+aaabaaababbbaabaabaabaaabbabbbab
+bbabbaabbbabbababbabbbbb
+ababababaababaabbaaaabab
+bababaaaaaababbabbbbbaba
+babbbbabbbaaababbbbbabbbbabaabbaabaabaab
+ababaabbbbbbbbabbbbbbaba
+abbbaaaababbaabbbabbaaab
+bbbbabbaabbbaababbabaabb
+bbbbbabbbbbbabbbababaaab
+babbabbbbbbabaabbbbaaaba
+baababaabbbbabbbbababaab
+aaaabaabaaaabbbbaaabbaab
+bbbaaaabbabbababababaaab
+abaaaababbbbaaaaababbaba
+bbbbaaaaaaabbaaaaabaabab
+babababbbabbabaaaaababbb
+babbbaabbbaaabababbbbaba
+aaabbabaababbaaabaaaaababababbaaabaabaabaaabbbbaaaaaaabbbabbaaba
+abaaaabbabaabbbabaaaabbababaaabaababaabbaaaaabbbbabaaaba
+bbbbaaaaabbbbbbbbaaabaab
+bbaabaaaabbaaabbabbbbbaa
+abbbbbaabababababbbbbaba
+bbbabbbaabaababbbbbbabaa
+bbbaaaabababbabbbbabbbba
+abaababbbababaaabaaaaabb
+bbabaaabbbaabbbbbaabaaaa
+bbbaabaabbbbbbbabaabbaab
+aabbabbbbbbbbabbbbaabaab
+aabbabbbaaaaabbbbbbabbbbbaababbababaaabaaaababbabbaababbbaabbaba
+abbbbbbbbababaaabaababab
+bbbbbbbababbbbbbaaabaabaabbbbbba
+abaabbabbbbaaabbaaaaaaaa
+bbaaabababaaababbbbabbbabbababba
+abbababbbabbabbbabaabaabbaababaaabbbabba
+abbbbbbbbbbbbaabaabaabab
+bababbabbbbbbaabbaabbbab
+aaaaabaaaaaaaababaababbb
+aabbabbbaabaabaaabaaabaa
+abbabaaabbabaabaabbababaaaabbbaabaababbaabaaaaabaaaabababbbabbab
+aaabbbbbbbabbaaaabaaaaab
+aaaabbbbbbbbbaabbbabbbba
+ababbabbabbbabbbbabaaabb
+bbbaaabbaaababbbaababbbbabaabbabbbbbaaaaaaabababaaaabaabaaabbababaabababbabbbbabbbabaaba
+ababababbaababaabbbaaaba
+baaabbaabbbabbbaabbabbba
+abaaabbbbbaaaabbabababbbbaaabaabbabaaabb
+abaaaabbababbbbabaababab
+baaaabbbaaabbabbaaaabaaa
+baabbbaaaabbabaababbbaaa
+bbbbbbbbbaaaaaabaaababbabbbbabbbabababaaaaaaabbaabbbbbabaabaabbbaaaaababaaabbabaaaaababa
+bababaaabbaaababbbbbbbbabbbbbbababbbabaa
+aababaaaabbabbabbababbabbaabaaba
+bbbbabbabbbbababbababaaabbbbaabb
+abbaaabbbaabbbbabbbabbab
+baaaabbbbaababbabababbbb
+aaaabbabbabbbbbbbbabbbaa
+bababbababbbbbabbbbabbab
+abbabbabbbbabbaaabbbabba
+ababbabbbaabbbbbababaaab
+abbabbabbbabaabaabbabbababaabbaabaaaaaaa
+abbbababbbaabbabaabbbaaa
+aaaababbabbbbaaaabbabbaa
+bbabbaaaabbbbbbbbbbabbbbbaaaaabbbbbbbaba
+baabbabbbbbaabbbaabbababbbababba
+baabbbaaaaaabbbbaabbabba
+aababaaabababaaabbaaabbabababbaaabbaabbbababaaab
+bbaabbbbaaaabaababbbababbbbabbbaaababaaaabbaaaba
+abaaaabaabababaaaabaabbb
+aaabaabababbabbaababaaaa
+babababbbbabaaababaaabbaaaaaaaaaaaaabbababbabaaabaaaabbabaaaaabbaaababbbaaaaabaaaaabbaab
+ababaaaababbbaaababbbbaababbabaabaaaabaaabaabbaaabbbaababaaababbabbaabaa
+abbbbbbbbaaabbababbbbbab
+abbbbaaababbabaaabbbbbba
+aaabbaaaabbaabbbbaaaaaaa
+aaaabaabbbbbbbabbbbbbbbbbbbbbabbbbbababa
+babbabaaababaabbbabbaabbaaababbb
+baabbaaabaaababaabbabbbabababbaababaaabbbbbbaaaabbaabbbbabababababaabbbb
+abbababbbabaaabaaaabbbbbbbaabbbbaabababbbbbbbabaaabbaaaa
+bbaabbbaabbaabbbabaaaabbaabbbbaa
+aaabbbbbbababbbaabbaaaba
+abbbbaaababababbaaaabbba
+abbaaabbabbababaaaaaabba
+abbbabbbabaaaabbbabaabbbbbabbbbaabbbaabb
+abbbababbabbbabbbbaaaabb
+baabaaabbbbbabbbababbabbbbbababb
+bbabaaabbbaabbabbbaabbbbbbbbabbbbbbbababbbaaabaa
+babbabaaaaababbbbaaababaaaaabbbbaabbbaababbaabaabbbaabab
+bbbbababaabaaabaabaaaaabababbbbbbabbaaaaaabaabaa
+bbbabbbaaaabbbaabbaaaabaaabbaaba
+bbabaabaabaabbbbaaabbaba
+bbaababaaaaabbabbbabbbaa
+bbbbbbbababababaaabbbbab
+abaabaaaaaabbabbbaaababb
+bbaaaabababaaaaabaaaaabb
+bbbaabaaabaabaaabbbbbaabbbaaababaaaaabbbabbabbbaaababbaa
+baabbbbbabbbaaaaaaaaabba
+aaaaaabaaabaabbaabbabbaa
+abaaabbaabbaabbbbbbabbbabbaaabababaabbaaabbbaaabbaabbbab
+abaabbababbababbabbbbaaaababbabbabbabbabbaababbb
+abababbababbbaabbbbababa
+babaabbbbbaabaaabaabaaba
+bbaaabbbbbbababbaaabababaabbaaabaabaabbb
+abbaaabbbabbaabbabbaabaa
+abababbaaabaabbaabbbbaba
+abaabaaababaabbbbbbbbbaaaabbaaba
+abaababbabbabaaaaabbaabb
+baababaaabbabaaaabababaabbaaabababaababaaabbabab
+aaaaabaababbaababaabbaba
+aaabbbbbbbbbbbaaabbbbabb
+aaaabaabbbbbbabbbbbbbaba
+bbbbbabbabbbbaaaababaaba
+bbabbaabbabbaababbbaabbb
+bbabaaabbabbabbbaabaabab
+babbbaababaabbbbbabbbbbbbaaaababbbaaaaab
+babbabbbababababbbbabaaa
+aaaaaabaaababaaababbaababababbaabaaaabbaabbbbaba
+aababaabbbabbababbbbabaa
+babbaabbbabbabaaabbabbaa
+babbbbabbbaabaabbaaababbbbbbbbbaabbbbbbbaaaabbbb
+aabbabaaaababbbbbabbaababbbabaaa
+abaabbababababbababaabab
+baababaaaaabbbbaaaabaabb
+bbbabbaabbabaabaabaaabaa
+bbbabbbbbbbbbbabbbbbaaab
+baabbbbababaaabaaaabaaaabbbaabab
+aabaaababbabaaabbaabbbab
+aaabbabbbbabaaabbababaaababbbbaabbaaababbabbbbbbabbbabaabbaaaaab
+abaababbbabaaabababaabba
+bbabbbbbbbbabaaaabaabababaababbbaabbaaabbaaababbbbbabbba
+baabbabbbabbbbababbabbababbabababbaabbabaaaaabaaababaabaabababab
+baaaaaababaaabbbaababbaa
+aaabbbbaabababaaaaababab
+baaaabbbbabaabbbbaaaabba
+abbbabababbbbaaabbabbabaaabaabbbbbababba
+bbaabbabbbbaaabbabababaababbbaabaabbbbaa
+bababbabaabbbaabbbbbbaba
+aaaabbbbbbbbbbabaabbbaba
+baaabaaabbabbaaabababbbbbbbbababbbabaaabaabaabbabbbbbbababbababb
+baaabbaaabaababbaabababaaaaababbbaaabaab
+aababaabbbaaababbbbaabba
+bbbabbbbbabbbaabbbbbbbabaaabbabaabbbbbba
+ababababaabbabbbbbaabbbbaabaabbb
+aabaaabaaaaabaabbabaaabb
+bbbbaaaaababababbabbbbbbbabaabbbabbaaaba
+bbaaaababbbabaabaababbba
+bbaabbabbabaaaaabababbaababbbbbb
+baaaaababaabababaaabaabbbabaabbbbabaabbbbbbbbaab
+abbabaaabbbbbabbbbbaaaba
+babbbabbabaabbbaaaababbb
+abababaabababbbaabbaabba
+babbabbbabbbaaaabbaabbaa
+babbbbabbaababbaababbaba
+bbbbaaaabbbbabbbbbaaabaa
+bbababbbbabbbbabaaaabaabaabbbbbbaaaabbaa
+bbbbbbabababbabbaaabbbaabbbaabbabaaaabab
+aaabaaaaabababbabaaabaaa
+ababaabbaabaabbaababbbaa
+babababaabaabbaabbaaabaa
+bbaaaababaabbbaaaabbbaabaababbabbbbbbaababababababbabaab
+bbababbbaabaabbabbaabbbbaaabbabbbabbbaaa
+aaaababbabbababbaababaaabbabbbab
+bbabbaaaaabaaaabbbbabaaa
+aaaaabaaaaabbbaaabbabbba
+abbbaababbbbbbabbbaabababbbbaaab
+babbabaaababbabbabbaaaab
+babaaabaaaaaaabaabbabbbb
+bababbaabbababbbaabaaababbaabbabaababbbbaabbbaabbbbababb
+aaaaaaabbbbabbaaabbbabab
+bbabaabaaabbabbbbaaababa
+abbabbabbbbaabaaaaaababa
+bbbabbbbabbbbaaabaaabbbb
+babbbabbbbbbabbbaabbbbaa
+baaaabbbaaababbaababaaaa
+aaaaaabababbbbabbababaab
+bbaabbbbabbababababbaabbbbbbabaa
+baabaaabbbbaaabbaabbbbba
+bbabaababbaabbbbbbbabbab
+bababbabaababbabbaabbabb
+aaabbabbaababaabababaaaa
+baababbaabaabbbbabbbaababbababbbbaabbababbbababaabbaaaba
+aababaaaaaabaaabaaaabaabaabaabbbbbbababa
+abbbbaaaaaabbbbaabaabbbababaaabbababaaaa
+abbbabbbaaaababbbbbbabaa
+bbabbaaababaabaaaaabaabb
+aabaaababbabbaaabbaabbbbaabaaaabbaaabbabbaaaaababaababbbbbaaabbb
+aaabbbbabaaaabbbbbababba
+aaaabbbababbabaaabbabbbbaaabbaaaabbababbbaabbbab
+aaabbbaaababbbbabbbbaaab
+aaaababbaaabbabbaababbba
+babbbbbbbaababaabbbbbaba
+abbbaaaababbbabbbabbbaaa
+aabbbaabababababbbbbbbaabbbbbabbbaabbabb
+aaabbbaabaaabbabaababbba
+abbbaabaaaabbbbabbbbbbababbaaaba
+bbbabaabbabbbabbbabababb
+aaaaaaabbbababbbbbaaaaab
+abbabbbbbaabbbbbaaababbbbabbbbabbaabbabb
+aabaabbabbbbaabaaaaaaaabbababababaaabbaabbaababbbbbbbaaabaaaabbabbbbbaba
+aaaabaababaaaaaabaaaabba
+bbbaaabbababababbbbbbaaa
+abbbabababaabbbabbbbaababbbaaabbbbbbbbbaaabaaabb
+bbaaaabaababaabbaaabaabb
+aaaabbabaaabbabbbbbbabbaabababaaabaabbabbaabbaba
+bbababbbbaaaabbbababaaaa
+bbababbbabaaaabababaabab
+aababababaababbaabbaaaba
+baabbbaaabaabbbbaabbabbbabaabbbaaaabbaab
+bbbbbaabbabbabbabbbabbbbabbbbbaaaaaaabba
+baaaabbbbbbabbaabbbaabab
+abbbabbbbbbbbabbbabababaabbbbbbbbababaaababbaaab
+abbaabaaaabbabaabbbaaabaabbbbaabaabbaababbaababbbaaabaaaaabbaaaa
+baaabbabababbbabbaabaaaa
+aaabaabaaababbbbababbaba
+bbaabbbaaaaababbababaaaa
+abbbbaaabaaaaaabbbbaabab
+abbbbbaaababbbababbaabaa
+ababbabbbbbabbbbbbabbabb
+bbbbbbaaaaaaaabaaaabbaab
+aababbababaaababbbbbaaaabbbaabbaababbaba
+aaababbaabbabababbbababa
+abbabbabaaaaaabaabababaababbbaabbbabbaab
+aabaaababbabaaabbaaabaab
+aaabbbbaabbbbbaaabaaabaa
+aaabaaaababbbaabaabbaaba
+abaaaabaaabbbaabaabaabab
+babaabbaabbbbbbbabbabaaababaaabbbbbababa
+babbaababbbaaaababbbabbbabbaaabaabbaabaa
+abaabbbabbbbaaaabbbbbbbbbbbabbaaabbaaabbaabaababbaabbbab
+bbaaaaaaaabbabbbabaaaabbaaaabbaa
+bbaabbbbbbaababbaaaaaaaabbbaaabaaaababbbbbbaaaababbbabbababaaaabbbbaabbaabaabbbaabbaaaaa
+bbabaababbaabaaababbbaaa
+aaaababbaaabaaabaaaabbba
+aaaabaabbabbabbabbaabaaaabbaabbbaaaaabba
+bbaabbbbabaababbbabbaababbbbbbaabaabaaababaabababbbababb
+aaaaabbbaabbabbbabaaabbaababbbbbaaabbbbbbbabaaabbabaaaabbbbbaabb
+bbbbaababababbaaababbbabaaaabbaa
+abbbbaaaaababbabbbababaaaaabbbabbbaabaabbaaabaab
+abaabaaaaabaabbaaaabbaaaabbbbabb
+bbabaabaaaaaaaabbbbababa
+bbbbbabbabababaaabbaaaab
+aaabbbabbaabababbbabbbbaabbbaaaaaaabbbab
+abbababaabaabbbaaaaabaaa
+bbbabbaaaabbbaabaaabaaabbbbbabaa
+abbababaabaaababbbbaaaba
+babaabbaabaaabbbbabbabbaaabbbaaa
+aaabaabaabaaababbabbbbbbbaabbabbabbabbbbbbaabaaabbaababbaaaaaaaaaaaaaabbbbbabaaa
+babbbabbabbbaaaaabbaabbabbbabbabbbababbaaabaaaaa
+bbbbbbababbaaabbbaaaabab
+aaaabbbbbbaabbabababbaba
+abaababbbabbbbabbabbaaab
+ababbaaaabbbbbaaaaabbabbbbaabbabbaababbb
+aaabbbbababaaababaaabaab
+bbbbbbbabbaabaaabaaaabbbbabaabbbaaabaabbbabbaaab
+bbababbbbabbbaababaaaaab
+baaaabbbbaabbbaabaaabbbb
+abaaabbababaaaaabbababba
+aaabbbaaabaabbbbbaabaaba
+baabababbaababbbbaababbbaabbbbaa
+aabababaaaaaaabaaaababab
+aabbababaabbbbbaabbaabaabbbbbbbaaaabaababaabababbbbabaab

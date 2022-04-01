@@ -1,0 +1,23 @@
+from classes import OctopusSwarm
+
+f = open("11/input.txt", "r")
+lines = f.read().split("\n")
+#print(f"There are {len(lines)} lines.")
+#print(lines)
+
+os = OctopusSwarm(data=lines)
+#print(f"The swarm: {os.display()}")
+#os.evolve_steps(steps=100)
+#print(f"The swarm: {os.display()}")
+#print(f"After 100 steps, there have been {os.flash_count} flashes.")
+print(f"Initial swarm:")
+#print(os.display())
+#os.evolve_steps(steps=100)
+os.synchronize()
+#print(f"After step 1:")
+print(os.display())
+#os.evolve()
+#print(f"After step 2:")
+#print(os.display())
+print(f"Flash count: {os.flash_count}")
+print(f"Synchronized on turn {os.synchronization_turn-1} on value {os.synchronization_quotient}")
